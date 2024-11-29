@@ -2,7 +2,7 @@
 Online Grocery Store is an eCommerce based web application for our Web Programming project. We had developed a sample in which user can search and find necessary information about any grocery item, can proceed to checkout to buy products. User can create an account, update personal information, can check its past activities, orders and transactions, and cart items.
 
 # GitHub Repository
-https://github.com/ParasGarg/Online-Grocery-Store/
+https://github.com/ADITHYA-207/Online-grocery-web-app
 
 # Project Presentation
 https://drive.google.com/file/d/1Be7kqeixk8dMLi4JvNHVqQ8NfifuAS77/view?usp=drivesdk
